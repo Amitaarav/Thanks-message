@@ -81,7 +81,7 @@ export default function Home() {
           <div className="z-10 text-center p-8 bg-blue-600 bg-opacity-90 rounded-lg shadow-xl max-w-xl mx-4">
             <div className="bg-gray-200 rounded-lg overflow-hidden">
               <h2 className="text-4xl font-bold text-black animate-marquee whitespace-nowrap">
-              💗 Thank you, cherished peers and delightful Volleyball Juniors!✨✨ 
+              💗 Thank you, cherished peers and delightful Volleyball Juniors, for giving me such a grand farewell. Your heartfelt send-off has made my departure truly memorable✨✨ 
               </h2>
             </div>
             <p className="text-2xl mt-4 text-gray-300 font-bold hover:cursor-pointer">
