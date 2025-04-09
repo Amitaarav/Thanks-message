@@ -120,7 +120,7 @@ export default function Home() {
         }
         .animate-marquee {
           display: inline-block;
-          animation: marquee 15s linear infinite;
+          animation: marquee 20s linear infinite;
         }
         @keyframes marquee {
           0% {
