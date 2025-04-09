@@ -85,7 +85,7 @@ export default function Home() {
               </h2>
             </div>
             <p className="text-2xl mt-4 text-gray-300 font-bold hover:cursor-pointer">
-          {`Your passion and energy made every moment unforgettable, leaving me with cherished memories that have enriched my life. May your future blossom with endless joy, success, and vibrant opportunities! 🥳`
+          {`Your passion and vibrant energy made every moment unforgettable, gifting me with cherished memories that have enriched my life. May your future blossom with endless joy, success, and boundless opportunities. I have learned invaluable lessons from each one of you. 🥳`
     .split(" ")
     .map((word, index) => (
       <span
